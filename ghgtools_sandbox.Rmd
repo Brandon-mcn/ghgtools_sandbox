@@ -1,0 +1,168 @@
+---
+title: ghgtools-sandbox
+author: Brandon
+project: test
+date: Nov 12, 2024
+---
+
+Welcome to the ghgtools sandbox!
+
+Add your activity data template to the GHG Inventory Report project folder. You can either drag and drop activity data into the provided template 'ghgtools_ActivityData' or overwrite this file with your own activity data file. Please ensure the data is formatted correctly and saved as 'ghgtools_ActivityData.xlsx'
+
+Add your asset portfolio data template to the GHG Inventory Report project folder. You can either drag and drop activity data into the provided template 'ghgtools_AssetPortfolio_V1' or overwrite this file with your own activity data file. Please ensure the data is formatted correctly and saved as 'ghgtools_AssetPortfolio_V1.xlsx'
+
+
+1. Install and load data.table
+```{r setup}
+if (!require("data.table")) install.packages("data.table")
+library(data.table)
+if (!require("bit64")) install.packages("bit64")
+library(bit64)
+```
+
+2. Select GWPs and prepare the global environment
+```{r}
+GWP <- "AR5"
+ActivityData <- fread("data/ActivityData.csv")
+AssetPortfolio <- fread("data/AssetPortfolio.csv")
+EFL <- fread("data/EFLibrary.csv")
+eGRIDlookup <- fread("data/EGRIDlookup.csv")
+GWP_full <- fread("data/GWPs.csv")
+```
+
+3. Generate ghgtools output
+```{r}
+# Create the table of global warming potentials
+gwp_key <- c("ghg",GWP)
+GWPs <- GWP_full[, gwp_key, with = FALSE]
+colnames(GWPs)[2] <- "gwp"
+co2gwp <- GWPs[GWPs$ghg == "CO2", gwp]
+ch4gwp <- GWPs[GWPs$ghg == "CH4", gwp]
+n2ogwp <- GWPs[GWPs$ghg == "N2O", gwp]
+
+# Consolidate the emission factor library into CO2e values
+EFL1 <- merge.data.table(EFL, GWPs, sort = FALSE, all.x = TRUE)
+EFL1[, gwps_ar := GWP]
+EFL1[, kgco2e_perunit := ghg_perunit*gwp]
+EFL1[, ghg := ifelse(ghg %in% c("CO2", "CH4", "N2O"), ghg, "other_ghgs")]
+EFL_CO2e <- dcast(EFL1, ef_source +
+                    ef_publishdate +
+                    ef_activeyear +
+                    service_type +
+                    unit +
+                    emission_category +
+                    service_subcategory1 +
+                    service_subcategory2 +
+                    emission_scope +
+                    country +
+                    subregion +
+                    gwps_ar ~ ghg,
+                  value.var = "kgco2e_perunit",
+                  fun.aggregate = sum)
+EFL_CO2e[, kgco2e_perunit := as.numeric(CO2 + CH4 + N2O + other_ghgs)]
+EFL_CO2e[, co2_gwp := co2gwp]
+EFL_CO2e[, ch4_gwp := ch4gwp]
+EFL_CO2e[, n2o_gwp := n2ogwp]
+EFL_CO2e[, CO2 := CO2 / co2gwp]
+EFL_CO2e[, CH4 := CH4 / ch4gwp]
+EFL_CO2e[, N2O := N2O / n2ogwp]
+setnames(EFL_CO2e, "CO2", "co2_kgperunit")
+setnames(EFL_CO2e, "CH4", "ch4_kgperunit")
+setnames(EFL_CO2e, "N2O", "n2o_kgperunit")
+setnames(EFL_CO2e, "other_ghgs", "otherghgs_kgco2eperunit")
+setnames(EFL_CO2e, "ef_activeyear", "year")
+EFL_CO2e[is.na(EFL_CO2e)] <- ""
+
+# Merge activity data with asset portfolio
+AD1 <- data.table(merge.data.table(ActivityData, AssetPortfolio, sort = FALSE, all.x = TRUE))
+AD1[, zip := as.numeric(zip)]
+
+# Add column to specify the emission category
+AD1[, emission_category := ifelse(asset_type == "vehicle", "mobile",
+                            ifelse(asset_type == "equipment", asset_subtype,
+                            ifelse(service_type == "steam" | service_type == "chilled water" | service_type == "electricity", "indirect energy",
+                            ifelse(service_type == "purchased goods and services", "purchased goods and services",
+                            ifelse(service_type == "capital goods", "capital goods",
+                            ifelse(service_type == "business travel", "business travel",
+                            ifelse(service_type == "employee commuting", "employee commuting",
+                            "stationary")))))))]
+
+# Add column to specify the eGRID subregion for electricity
+AD2 <- data.table(merge.data.table(AD1, eGRIDlookup, sort = FALSE, all.x = TRUE))
+AD2[is.na(AD2)] <- ""
+
+# Split AD1 into one table for Vehicles and one table for all other asset types (still need to develop this...)
+# AD_vehicles <- AD1[asset_type == "Vehicle"]
+# AD_allelse <- AD1[asset_type != "Vehicle"]
+
+# Merge the emission factor library with activity data (Nov 12 2024: took out supplier from EFL and removed the variable from this merge)
+GHGrawdata <- data.table(merge.data.table(AD2, EFL_CO2e, by = c("year",
+                                                                "service_type",
+                                                                "emission_category",
+                                                                "service_subcategory1",
+                                                                "service_subcategory2",
+                                                                "country",
+                                                                "subregion",
+                                                                "unit"),
+                                          all.x = TRUE, sort = FALSE))
+
+# Calculate GHG emissions
+GHGrawdata[, kg_co2 := usage * co2_kgperunit]
+GHGrawdata[, kg_ch4 := usage * ch4_kgperunit]
+GHGrawdata[, kg_n2o := usage * n2o_kgperunit]
+GHGrawdata[, kg_co2e := usage * kgco2e_perunit]
+GHGrawdata[, mt_co2e := kg_co2e/1000]
+
+# Organize data
+setcolorder(GHGrawdata, c("asset_id", 
+                          "asset_name",
+                          "asset_type", 
+                          "asset_subtype", 
+                          "asset_description", 
+                          "address", 
+                          "city",
+                          "state", 
+                          "zip", 
+                          "country", 
+                          "region", 
+                          "subregion", 
+                          "business_unit",
+                          "year_built", 
+                          "sqft", 
+                          "service_type", 
+                          "unit", 
+                          "supplier", 
+                          "account_id",
+                          "meter_number", 
+                          "bill_date", 
+                          "start_date", 
+                          "end_date", 
+                          "billing_days", 
+                          "year", 
+                          "cost", 
+                          "usage", 
+                          "emission_category",
+                          "service_subcategory1", 
+                          "service_subcategory2", 
+                          "emission_scope",
+                          "co2_kgperunit", 
+                          "ch4_kgperunit",
+                          "n2o_kgperunit", 
+                          "otherghgs_kgco2eperunit",
+                          "gwps_ar", 
+                          "co2_gwp",
+                          "ch4_gwp", 
+                          "n2o_gwp", 
+                          "kgco2e_perunit", 
+                          "kg_co2",
+                          "kg_ch4", 
+                          "kg_n2o", 
+                          "kg_co2e", 
+                          "mt_co2e", 
+                          "ef_source", 
+                          "ef_publishdate"))
+GHGrawdata[is.na(GHGrawdata)] <- ""
+fwrite(GHGrawdata, "ghgrawdata.csv")
+fwrite(EFL_CO2e, "EFlibrary_co2e.csv")
+```
+

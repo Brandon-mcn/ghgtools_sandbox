@@ -1,0 +1,320 @@
+ef_source,ef_publishdate,ef_activeyear,service_type,unit,emission_category,service_subcategory1,service_subcategory2,emission_scope,country,subregion,ghg,ghg_unit,source_emission_factor,unit_conversion,conversion_factor,ghg_perunit
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,anthracite,short tons,stationary,,,scope 1,USA,,CO2,kg,2602,1,kg_per_kg,2602
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bituminous,short tons,stationary,,,scope 1,USA,,CO2,kg,2325,1,kg_per_kg,2325
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,sub-bituminous,short tons,stationary,,,scope 1,USA,,CO2,kg,1676,1,kg_per_kg,1676
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,lignite,short tons,stationary,,,scope 1,USA,,CO2,kg,1389,1,kg_per_kg,1389
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (commercial sector),short tons,stationary,,,scope 1,USA,,CO2,kg,2016,1,kg_per_kg,2016
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (electric power sector),short tons,stationary,,,scope 1,USA,,CO2,kg,1885,1,kg_per_kg,1885
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (industrial coking),short tons,stationary,,,scope 1,USA,,CO2,kg,2468,1,kg_per_kg,2468
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (industrial sector),short tons,stationary,,,scope 1,USA,,CO2,kg,2116,1,kg_per_kg,2116
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,coal coke,short tons,stationary,,,scope 1,USA,,CO2,kg,2819,1,kg_per_kg,2819
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,municipal solid waste,short tons,stationary,,,scope 1,USA,,CO2,kg,902,1,kg_per_kg,902
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,petroleum coke (solid),short tons,stationary,,,scope 1,USA,,CO2,kg,3072,1,kg_per_kg,3072
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,plastics,short tons,stationary,,,scope 1,USA,,CO2,kg,2850,1,kg_per_kg,2850
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,tires,short tons,stationary,,,scope 1,USA,,CO2,kg,2407,1,kg_per_kg,2407
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,agricultural byproducts,short tons,stationary,,,scope 1,USA,,CO2,kg,975,1,kg_per_kg,975
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,peat,short tons,stationary,,,scope 1,USA,,CO2,kg,895,1,kg_per_kg,895
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,solid byproducts,short tons,stationary,,,scope 1,USA,,CO2,kg,1096,1,kg_per_kg,1096
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,wood and wood residuals,short tons,stationary,,,scope 1,USA,,CO2,kg,1640,1,kg_per_kg,1640
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,scf,stationary,,,scope 1,USA,,CO2,kg,0.05444,1,kg_per_kg,0.05444
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,blast furnace gas,scf,stationary,,,scope 1,USA,,CO2,kg,0.02524,1,kg_per_kg,0.02524
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,coke oven gas,scf,stationary,,,scope 1,USA,,CO2,kg,0.02806,1,kg_per_kg,0.02806
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,fuel gas,scf,stationary,,,scope 1,USA,,CO2,kg,0.08189,1,kg_per_kg,0.08189
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propane gas,scf,stationary,,,scope 1,USA,,CO2,kg,0.15463,1,kg_per_kg,0.15463
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,landfill gas,scf,stationary,,,scope 1,USA,,CO2,kg,0.025254,1,kg_per_kg,0.025254
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,other biomass gases,scf,stationary,,,scope 1,USA,,CO2,kg,0.034106,1,kg_per_kg,0.034106
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,asphalt and road oil,gallons,stationary,,,scope 1,USA,,CO2,kg,11.91,1,kg_per_kg,11.91
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,aviation gasoline,gallons,stationary,,,scope 1,USA,,CO2,kg,8.31,1,kg_per_kg,8.31
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,butane,gallons,stationary,,,scope 1,USA,,CO2,kg,6.67,1,kg_per_kg,6.67
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,butylene,gallons,stationary,,,scope 1,USA,,CO2,kg,7.22,1,kg_per_kg,7.22
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,crude oil,gallons,stationary,,,scope 1,USA,,CO2,kg,10.29,1,kg_per_kg,10.29
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 1,gallons,stationary,,,scope 1,USA,,CO2,kg,10.18,1,kg_per_kg,10.18
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 2,gallons,stationary,,,scope 1,USA,,CO2,kg,10.21,1,kg_per_kg,10.21
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 4,gallons,stationary,,,scope 1,USA,,CO2,kg,10.96,1,kg_per_kg,10.96
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethane,gallons,stationary,,,scope 1,USA,,CO2,kg,4.05,1,kg_per_kg,4.05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethylene,gallons,stationary,,,scope 1,USA,,CO2,kg,3.83,1,kg_per_kg,3.83
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,heavy gas oils,gallons,stationary,,,scope 1,USA,,CO2,kg,11.09,1,kg_per_kg,11.09
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,isobutane,gallons,stationary,,,scope 1,USA,,CO2,kg,6.43,1,kg_per_kg,6.43
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,isobutylene,gallons,stationary,,,scope 1,USA,,CO2,kg,7.09,1,kg_per_kg,7.09
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene,gallons,stationary,,,scope 1,USA,,CO2,kg,10.15,1,kg_per_kg,10.15
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene-type jet fuel,gallons,stationary,,,scope 1,USA,,CO2,kg,9.75,1,kg_per_kg,9.75
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied petroleum gases (lpg),gallons,stationary,,,scope 1,USA,,CO2,kg,5.68,1,kg_per_kg,5.68
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,lubricants,gallons,stationary,,,scope 1,USA,,CO2,kg,10.69,1,kg_per_kg,10.69
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,motor gasoline,gallons,stationary,,,scope 1,USA,,CO2,kg,8.78,1,kg_per_kg,8.78
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,naphtha (<401 deg f),gallons,stationary,,,scope 1,USA,,CO2,kg,8.5,1,kg_per_kg,8.5
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gasoline,gallons,stationary,,,scope 1,USA,,CO2,kg,7.36,1,kg_per_kg,7.36
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,other oil (>401 deg f),gallons,stationary,,,scope 1,USA,,CO2,kg,10.59,1,kg_per_kg,10.59
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,pentanes plus,gallons,stationary,,,scope 1,USA,,CO2,kg,7.7,1,kg_per_kg,7.7
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,petrochemical feedstocks,gallons,stationary,,,scope 1,USA,,CO2,kg,8.88,1,kg_per_kg,8.88
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propane,gallons,stationary,,,scope 1,USA,,CO2,kg,5.72,1,kg_per_kg,5.72
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propylene,gallons,stationary,,,scope 1,USA,,CO2,kg,6.17,1,kg_per_kg,6.17
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil no. 5,gallons,stationary,,,scope 1,USA,,CO2,kg,10.21,1,kg_per_kg,10.21
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil no. 6,gallons,stationary,,,scope 1,USA,,CO2,kg,11.27,1,kg_per_kg,11.27
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,special naphtha,gallons,stationary,,,scope 1,USA,,CO2,kg,9.04,1,kg_per_kg,9.04
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,unfinished oils,gallons,stationary,,,scope 1,USA,,CO2,kg,10.36,1,kg_per_kg,10.36
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,used oil,gallons,stationary,,,scope 1,USA,,CO2,kg,10.21,1,kg_per_kg,10.21
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,biodiesel (100%),gallons,stationary,,,scope 1,USA,,CO2,kg,9.45,1,kg_per_kg,9.45
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethanol (100%),gallons,stationary,,,scope 1,USA,,CO2,kg,5.75,1,kg_per_kg,5.75
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,rendered animal fat,gallons,stationary,,,scope 1,USA,,CO2,kg,8.88,1,kg_per_kg,8.88
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,vegetable oil,gallons,stationary,,,scope 1,USA,,CO2,kg,9.79,1,kg_per_kg,9.79
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,mmbtu,stationary,,,scope 1,USA,,CO2,kg,53.06,1,kg_per_kg,53.06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,north american softwood,mmbtu,stationary,,,scope 1,USA,,CO2,kg,94.4,1,kg_per_kg,94.4
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,north american hardwood,mmbtu,stationary,,,scope 1,USA,,CO2,kg,93.7,1,kg_per_kg,93.7
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bagasse,mmbtu,stationary,,,scope 1,USA,,CO2,kg,95.5,1,kg_per_kg,95.5
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bamboo,mmbtu,stationary,,,scope 1,USA,,CO2,kg,93.7,1,kg_per_kg,93.7
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,straw,mmbtu,stationary,,,scope 1,USA,,CO2,kg,95.1,1,kg_per_kg,95.1
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,therms,stationary,,,scope 1,USA,,CO2,kg,5.306,1,kg_per_kg,5.306
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,anthracite,short tons,stationary,,,scope 1,USA,,CH4,grams,276,1000,grams_per_kg,0.276
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bituminous,short tons,stationary,,,scope 1,USA,,CH4,grams,274,1000,grams_per_kg,0.274
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,sub-bituminous,short tons,stationary,,,scope 1,USA,,CH4,grams,190,1000,grams_per_kg,0.19
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,lignite,short tons,stationary,,,scope 1,USA,,CH4,grams,156,1000,grams_per_kg,0.156
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (commercial sector),short tons,stationary,,,scope 1,USA,,CH4,grams,235,1000,grams_per_kg,0.235
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (electric power sector),short tons,stationary,,,scope 1,USA,,CH4,grams,217,1000,grams_per_kg,0.217
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (industrial coking),short tons,stationary,,,scope 1,USA,,CH4,grams,289,1000,grams_per_kg,0.289
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (industrial sector),short tons,stationary,,,scope 1,USA,,CH4,grams,246,1000,grams_per_kg,0.246
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,coal coke,short tons,stationary,,,scope 1,USA,,CH4,grams,273,1000,grams_per_kg,0.273
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,municipal solid waste,short tons,stationary,,,scope 1,USA,,CH4,grams,318,1000,grams_per_kg,0.318
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,petroleum coke (solid),short tons,stationary,,,scope 1,USA,,CH4,grams,960,1000,grams_per_kg,0.96
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,plastics,short tons,stationary,,,scope 1,USA,,CH4,grams,1216,1000,grams_per_kg,1.216
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,tires,short tons,stationary,,,scope 1,USA,,CH4,grams,896,1000,grams_per_kg,0.896
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,agricultural byproducts,short tons,stationary,,,scope 1,USA,,CH4,grams,264,1000,grams_per_kg,0.264
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,peat,short tons,stationary,,,scope 1,USA,,CH4,grams,256,1000,grams_per_kg,0.256
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,solid byproducts,short tons,stationary,,,scope 1,USA,,CH4,grams,332,1000,grams_per_kg,0.332
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,wood and wood residuals,short tons,stationary,,,scope 1,USA,,CH4,grams,126,1000,grams_per_kg,0.126
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,scf,stationary,,,scope 1,USA,,CH4,grams,0.00103,1000,grams_per_kg,0.00000103
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,blast furnace gas,scf,stationary,,,scope 1,USA,,CH4,grams,0.000002,1000,grams_per_kg,0.000000002
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,coke oven gas,scf,stationary,,,scope 1,USA,,CH4,grams,0.000288,1000,grams_per_kg,0.000000288
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,fuel gas,scf,stationary,,,scope 1,USA,,CH4,grams,0.004164,1000,grams_per_kg,0.000004164
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propane gas,scf,stationary,,,scope 1,USA,,CH4,grams,0.007548,1000,grams_per_kg,0.000007548
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,landfill gas,scf,stationary,,,scope 1,USA,,CH4,grams,0.001552,1000,grams_per_kg,0.000001552
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,other biomass gases,scf,stationary,,,scope 1,USA,,CH4,grams,0.002096,1000,grams_per_kg,0.000002096
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,asphalt and road oil,gallons,stationary,,,scope 1,USA,,CH4,grams,0.47,1000,grams_per_kg,0.00047
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,aviation gasoline,gallons,stationary,,,scope 1,USA,,CH4,grams,0.36,1000,grams_per_kg,0.00036
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,butane,gallons,stationary,,,scope 1,USA,,CH4,grams,0.31,1000,grams_per_kg,0.00031
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,butylene,gallons,stationary,,,scope 1,USA,,CH4,grams,0.32,1000,grams_per_kg,0.00032
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,crude oil,gallons,stationary,,,scope 1,USA,,CH4,grams,0.41,1000,grams_per_kg,0.00041
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 1,gallons,stationary,,,scope 1,USA,,CH4,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 2,gallons,stationary,,,scope 1,USA,,CH4,grams,0.41,1000,grams_per_kg,0.00041
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 4,gallons,stationary,,,scope 1,USA,,CH4,grams,0.44,1000,grams_per_kg,0.00044
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethane,gallons,stationary,,,scope 1,USA,,CH4,grams,0.2,1000,grams_per_kg,0.0002
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethylene,gallons,stationary,,,scope 1,USA,,CH4,grams,0.17,1000,grams_per_kg,0.00017
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,heavy gas oils,gallons,stationary,,,scope 1,USA,,CH4,grams,0.44,1000,grams_per_kg,0.00044
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,isobutane,gallons,stationary,,,scope 1,USA,,CH4,grams,0.3,1000,grams_per_kg,0.0003
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,isobutylene,gallons,stationary,,,scope 1,USA,,CH4,grams,0.31,1000,grams_per_kg,0.00031
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene,gallons,stationary,,,scope 1,USA,,CH4,grams,0.41,1000,grams_per_kg,0.00041
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene-type jet fuel,gallons,stationary,,,scope 1,USA,,CH4,grams,0.41,1000,grams_per_kg,0.00041
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied petroleum gases (lpg),gallons,stationary,,,scope 1,USA,,CH4,grams,0.28,1000,grams_per_kg,0.00028
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,lubricants,gallons,stationary,,,scope 1,USA,,CH4,grams,0.43,1000,grams_per_kg,0.00043
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,motor gasoline,gallons,stationary,,,scope 1,USA,,CH4,grams,0.38,1000,grams_per_kg,0.00038
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,naphtha (<401 deg f),gallons,stationary,,,scope 1,USA,,CH4,grams,0.38,1000,grams_per_kg,0.00038
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gasoline,gallons,stationary,,,scope 1,USA,,CH4,grams,0.33,1000,grams_per_kg,0.00033
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,other oil (>401 deg f),gallons,stationary,,,scope 1,USA,,CH4,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,pentanes plus,gallons,stationary,,,scope 1,USA,,CH4,grams,0.33,1000,grams_per_kg,0.00033
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,petrochemical feedstocks,gallons,stationary,,,scope 1,USA,,CH4,grams,0.38,1000,grams_per_kg,0.00038
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propane,gallons,stationary,,,scope 1,USA,,CH4,grams,0.27,1000,grams_per_kg,0.00027
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propylene,gallons,stationary,,,scope 1,USA,,CH4,grams,0.27,1000,grams_per_kg,0.00027
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil no. 5,gallons,stationary,,,scope 1,USA,,CH4,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil no. 6,gallons,stationary,,,scope 1,USA,,CH4,grams,0.45,1000,grams_per_kg,0.00045
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,special naphtha,gallons,stationary,,,scope 1,USA,,CH4,grams,0.38,1000,grams_per_kg,0.00038
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,unfinished oils,gallons,stationary,,,scope 1,USA,,CH4,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,used oil,gallons,stationary,,,scope 1,USA,,CH4,grams,0.41,1000,grams_per_kg,0.00041
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,biodiesel (100%),gallons,stationary,,,scope 1,USA,,CH4,grams,0.14,1000,grams_per_kg,0.00014
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethanol (100%),gallons,stationary,,,scope 1,USA,,CH4,grams,0.09,1000,grams_per_kg,0.00009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,rendered animal fat,gallons,stationary,,,scope 1,USA,,CH4,grams,0.14,1000,grams_per_kg,0.00014
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,vegetable oil,gallons,stationary,,,scope 1,USA,,CH4,grams,0.13,1000,grams_per_kg,0.00013
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,mmbtu,stationary,,,scope 1,USA,,CH4,grams,1,1000,grams_per_kg,0.001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,north american softwood,mmbtu,stationary,,,scope 1,USA,,CH4,grams,1.9,1000,grams_per_kg,0.0019
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,north american hardwood,mmbtu,stationary,,,scope 1,USA,,CH4,grams,1.9,1000,grams_per_kg,0.0019
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bagasse,mmbtu,stationary,,,scope 1,USA,,CH4,grams,1.9,1000,grams_per_kg,0.0019
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bamboo,mmbtu,stationary,,,scope 1,USA,,CH4,grams,1.9,1000,grams_per_kg,0.0019
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,straw,mmbtu,stationary,,,scope 1,USA,,CH4,grams,1.9,1000,grams_per_kg,0.0019
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,therms,stationary,,,scope 1,USA,,CH4,grams,0.1,1000,grams_per_kg,0.0001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,anthracite,short tons,stationary,,,scope 1,USA,,N2O,grams,40,1000,grams_per_kg,0.04
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bituminous,short tons,stationary,,,scope 1,USA,,N2O,grams,40,1000,grams_per_kg,0.04
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,sub-bituminous,short tons,stationary,,,scope 1,USA,,N2O,grams,28,1000,grams_per_kg,0.028
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,lignite,short tons,stationary,,,scope 1,USA,,N2O,grams,23,1000,grams_per_kg,0.023
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (commercial sector),short tons,stationary,,,scope 1,USA,,N2O,grams,34,1000,grams_per_kg,0.034
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (electric power sector),short tons,stationary,,,scope 1,USA,,N2O,grams,32,1000,grams_per_kg,0.032
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (industrial coking),short tons,stationary,,,scope 1,USA,,N2O,grams,42,1000,grams_per_kg,0.042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,mixed coal (industrial sector),short tons,stationary,,,scope 1,USA,,N2O,grams,36,1000,grams_per_kg,0.036
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,coal coke,short tons,stationary,,,scope 1,USA,,N2O,grams,40,1000,grams_per_kg,0.04
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,municipal solid waste,short tons,stationary,,,scope 1,USA,,N2O,grams,42,1000,grams_per_kg,0.042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,petroleum coke (solid),short tons,stationary,,,scope 1,USA,,N2O,grams,126,1000,grams_per_kg,0.126
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,plastics,short tons,stationary,,,scope 1,USA,,N2O,grams,160,1000,grams_per_kg,0.16
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,tires,short tons,stationary,,,scope 1,USA,,N2O,grams,118,1000,grams_per_kg,0.118
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,agricultural byproducts,short tons,stationary,,,scope 1,USA,,N2O,grams,35,1000,grams_per_kg,0.035
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,peat,short tons,stationary,,,scope 1,USA,,N2O,grams,34,1000,grams_per_kg,0.034
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,solid byproducts,short tons,stationary,,,scope 1,USA,,N2O,grams,44,1000,grams_per_kg,0.044
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,wood and wood residuals,short tons,stationary,,,scope 1,USA,,N2O,grams,63,1000,grams_per_kg,0.063
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,scf,stationary,,,scope 1,USA,,N2O,grams,0.0001,1000,grams_per_kg,0.0000001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,blast furnace gas,scf,stationary,,,scope 1,USA,,N2O,grams,0.000009,1000,grams_per_kg,0.000000009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,coke oven gas,scf,stationary,,,scope 1,USA,,N2O,grams,0.00006,1000,grams_per_kg,0.00000006
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,fuel gas,scf,stationary,,,scope 1,USA,,N2O,grams,0.000833,1000,grams_per_kg,0.000000833
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propane gas,scf,stationary,,,scope 1,USA,,N2O,grams,0.00151,1000,grams_per_kg,0.00000151
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,landfill gas,scf,stationary,,,scope 1,USA,,N2O,grams,0.000306,1000,grams_per_kg,0.000000306
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,other biomass gases,scf,stationary,,,scope 1,USA,,N2O,grams,0.000413,1000,grams_per_kg,0.000000413
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,asphalt and road oil,gallons,stationary,,,scope 1,USA,,N2O,grams,0.09,1000,grams_per_kg,0.00009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,aviation gasoline,gallons,stationary,,,scope 1,USA,,N2O,grams,0.07,1000,grams_per_kg,0.00007
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,butane,gallons,stationary,,,scope 1,USA,,N2O,grams,0.06,1000,grams_per_kg,0.00006
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,butylene,gallons,stationary,,,scope 1,USA,,N2O,grams,0.06,1000,grams_per_kg,0.00006
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,crude oil,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 1,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 2,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,distillate fuel oil no. 4,gallons,stationary,,,scope 1,USA,,N2O,grams,0.09,1000,grams_per_kg,0.00009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethane,gallons,stationary,,,scope 1,USA,,N2O,grams,0.04,1000,grams_per_kg,0.00004
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethylene,gallons,stationary,,,scope 1,USA,,N2O,grams,0.03,1000,grams_per_kg,0.00003
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,heavy gas oils,gallons,stationary,,,scope 1,USA,,N2O,grams,0.09,1000,grams_per_kg,0.00009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,isobutane,gallons,stationary,,,scope 1,USA,,N2O,grams,0.06,1000,grams_per_kg,0.00006
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,isobutylene,gallons,stationary,,,scope 1,USA,,N2O,grams,0.06,1000,grams_per_kg,0.00006
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene-type jet fuel,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied petroleum gases (lpg),gallons,stationary,,,scope 1,USA,,N2O,grams,0.06,1000,grams_per_kg,0.00006
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,lubricants,gallons,stationary,,,scope 1,USA,,N2O,grams,0.09,1000,grams_per_kg,0.00009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,motor gasoline,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,naphtha (<401 deg f),gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gasoline,gallons,stationary,,,scope 1,USA,,N2O,grams,0.07,1000,grams_per_kg,0.00007
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,other oil (>401 deg f),gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,pentanes plus,gallons,stationary,,,scope 1,USA,,N2O,grams,0.07,1000,grams_per_kg,0.00007
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,petrochemical feedstocks,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propane,gallons,stationary,,,scope 1,USA,,N2O,grams,0.05,1000,grams_per_kg,0.00005
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,propylene,gallons,stationary,,,scope 1,USA,,N2O,grams,0.05,1000,grams_per_kg,0.00005
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil no. 5,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil no. 6,gallons,stationary,,,scope 1,USA,,N2O,grams,0.09,1000,grams_per_kg,0.00009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,special naphtha,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,unfinished oils,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,used oil,gallons,stationary,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,biodiesel (100%),gallons,stationary,,,scope 1,USA,,N2O,grams,0.01,1000,grams_per_kg,0.00001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethanol (100%),gallons,stationary,,,scope 1,USA,,N2O,grams,0.01,1000,grams_per_kg,0.00001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,rendered animal fat,gallons,stationary,,,scope 1,USA,,N2O,grams,0.01,1000,grams_per_kg,0.00001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,vegetable oil,gallons,stationary,,,scope 1,USA,,N2O,grams,0.01,1000,grams_per_kg,0.00001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,mmbtu,stationary,,,scope 1,USA,,N2O,grams,0.1,1000,grams_per_kg,0.0001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,north american softwood,mmbtu,stationary,,,scope 1,USA,,N2O,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,north american hardwood,mmbtu,stationary,,,scope 1,USA,,N2O,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bagasse,mmbtu,stationary,,,scope 1,USA,,N2O,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,bamboo,mmbtu,stationary,,,scope 1,USA,,N2O,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,straw,mmbtu,stationary,,,scope 1,USA,,N2O,grams,0.42,1000,grams_per_kg,0.00042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,natural gas,therms,stationary,,,scope 1,USA,,N2O,grams,0.01,1000,grams_per_kg,0.00001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,aviation gasoline,gallons,mobile,,,scope 1,USA,,CO2,kg,8.31,1,kg_per_kg,8.31
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,biodiesel (100%),gallons,mobile,,,scope 1,USA,,CO2,kg,9.45,1,kg_per_kg,9.45
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,compressed natural gas (cng),scf,mobile,,,scope 1,USA,,CO2,kg,0.05444,1,kg_per_kg,0.05444
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,diesel fuel,gallons,mobile,,,scope 1,USA,,CO2,kg,10.21,1,kg_per_kg,10.21
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethanol (100%),gallons,mobile,,,scope 1,USA,,CO2,kg,5.75,1,kg_per_kg,5.75
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene-type jet fuel,gallons,mobile,,,scope 1,USA,,CO2,kg,9.75,1,kg_per_kg,9.75
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied natural gas (lng),gallons,mobile,,,scope 1,USA,,CO2,kg,4.5,1,kg_per_kg,4.5
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied petroleum gases (lpg),gallons,mobile,,,scope 1,USA,,CO2,kg,5.68,1,kg_per_kg,5.68
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,motor gasoline,gallons,mobile,,,scope 1,USA,,CO2,kg,8.78,1,kg_per_kg,8.78
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil,gallons,mobile,,,scope 1,USA,,CO2,kg,11.27,1,kg_per_kg,11.27
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,aviation gasoline,gallons,mobile,,,scope 1,USA,,CH4,grams,0.36,1000,grams_per_kg,0.00036
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,biodiesel (100%),gallons,mobile,,,scope 1,USA,,CH4,grams,0.14,1000,grams_per_kg,0.00014
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,compressed natural gas (cng),scf,mobile,,,scope 1,USA,,CH4,grams,0,1000,grams_per_kg,0
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,diesel fuel,gallons,mobile,,,scope 1,USA,,CH4,grams,0.41,1000,grams_per_kg,0.00041
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethanol (100%),gallons,mobile,,,scope 1,USA,,CH4,grams,0.09,1000,grams_per_kg,0.00009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene-type jet fuel,gallons,mobile,,,scope 1,USA,,CH4,grams,0.41,1000,grams_per_kg,0.00041
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied natural gas (lng),gallons,mobile,,,scope 1,USA,,CH4,grams,0,1000,grams_per_kg,0
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied petroleum gases (lpg),gallons,mobile,,,scope 1,USA,,CH4,grams,0.28,1000,grams_per_kg,0.00028
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,motor gasoline,gallons,mobile,,,scope 1,USA,,CH4,grams,0.38,1000,grams_per_kg,0.00038
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil,gallons,mobile,,,scope 1,USA,,CH4,grams,0.45,1000,grams_per_kg,0.00045
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,aviation gasoline,gallons,mobile,,,scope 1,USA,,N2O,grams,0.07,1000,grams_per_kg,0.00007
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,biodiesel (100%),gallons,mobile,,,scope 1,USA,,N2O,grams,0.01,1000,grams_per_kg,0.00001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,compressed natural gas (cng),scf,mobile,,,scope 1,USA,,N2O,grams,0,1000,grams_per_kg,0
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,diesel fuel,gallons,mobile,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,ethanol (100%),gallons,mobile,,,scope 1,USA,,N2O,grams,0.01,1000,grams_per_kg,0.00001
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,kerosene-type jet fuel,gallons,mobile,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied natural gas (lng),gallons,mobile,,,scope 1,USA,,N2O,grams,0,1000,grams_per_kg,0
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,liquefied petroleum gases (lpg),gallons,mobile,,,scope 1,USA,,N2O,grams,0.06,1000,grams_per_kg,0.00006
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,motor gasoline,gallons,mobile,,,scope 1,USA,,N2O,grams,0.08,1000,grams_per_kg,0.00008
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,residual fuel oil,gallons,mobile,,,scope 1,USA,,N2O,grams,0.09,1000,grams_per_kg,0.00009
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AKGD,CO2,lbs,1.052114,2.204623,lbs_per_kg,0.477230801
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AKMS,CO2,lbs,0.495772,2.204623,lbs_per_kg,0.224878358
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AZNM,CO2,lbs,0.776036,2.204623,lbs_per_kg,0.352003948
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,CAMX,CO2,lbs,0.497443,2.204623,lbs_per_kg,0.225636311
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,ERCT,CO2,lbs,0.771083,2.204623,lbs_per_kg,0.349757305
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,FRCC,CO2,lbs,0.813846,2.204623,lbs_per_kg,0.369154273
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,HIMS,CO2,lbs,1.155486,2.204623,lbs_per_kg,0.524119543
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,HIOA,CO2,lbs,1.575407,2.204623,lbs_per_kg,0.714592472
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,MROE,CO2,lbs,1.479621,2.204623,lbs_per_kg,0.671144681
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,MROW,CO2,lbs,0.936485,2.204623,lbs_per_kg,0.424782378
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NEWE,CO2,lbs,0.536428,2.204623,lbs_per_kg,0.243319606
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NWPP,CO2,lbs,0.602088,2.204623,lbs_per_kg,0.273102476
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYCW,CO2,lbs,0.885233,2.204623,lbs_per_kg,0.401534866
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYLI,CO2,lbs,1.200708,2.204623,lbs_per_kg,0.544631894
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYUP,CO2,lbs,0.274559,2.204623,lbs_per_kg,0.124537846
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,PRMS,CO2,lbs,1.593481,2.204623,lbs_per_kg,0.722790699
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCE,CO2,lbs,0.657386,2.204623,lbs_per_kg,0.298185223
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCM,CO2,lbs,1.216404,2.204623,lbs_per_kg,0.551751479
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCW,CO2,lbs,1.000053,2.204623,lbs_per_kg,0.453616333
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RMPA,CO2,lbs,1.124887,2.204623,lbs_per_kg,0.510240073
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SPNO,CO2,lbs,0.952575,2.204623,lbs_per_kg,0.432080678
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SPSO,CO2,lbs,0.970398,2.204623,lbs_per_kg,0.440165053
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRMV,CO2,lbs,0.801015,2.204623,lbs_per_kg,0.36333423
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRMW,CO2,lbs,1.369887,2.204623,lbs_per_kg,0.621370184
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRSO,CO2,lbs,0.89329,2.204623,lbs_per_kg,0.405189459
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRTV,CO2,lbs,0.933067,2.204623,lbs_per_kg,0.423231999
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRVC,CO2,lbs,0.622987,2.204623,lbs_per_kg,0.282582101
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,US Average,CO2,lbs,0.823149,2.204623,lbs_per_kg,0.373374042
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AKGD,CH4,lbs,0.000088,2.204623,lbs_per_kg,3.99161E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AKMS,CH4,lbs,0.000023,2.204623,lbs_per_kg,1.04326E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AZNM,CH4,lbs,0.000051,2.204623,lbs_per_kg,2.31332E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,CAMX,CH4,lbs,0.00003,2.204623,lbs_per_kg,1.36078E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,ERCT,CH4,lbs,0.000049,2.204623,lbs_per_kg,2.2226E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,FRCC,CH4,lbs,0.000048,2.204623,lbs_per_kg,2.17724E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,HIMS,CH4,lbs,0.000124,2.204623,lbs_per_kg,5.62454E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,HIOA,CH4,lbs,0.000163,2.204623,lbs_per_kg,7.39355E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,MROE,CH4,lbs,0.000133,2.204623,lbs_per_kg,6.03278E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,MROW,CH4,lbs,0.000102,2.204623,lbs_per_kg,4.62664E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NEWE,CH4,lbs,0.000063,2.204623,lbs_per_kg,2.85763E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NWPP,CH4,lbs,0.000056,2.204623,lbs_per_kg,2.54012E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYCW,CH4,lbs,0.000023,2.204623,lbs_per_kg,1.04326E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYLI,CH4,lbs,0.000135,2.204623,lbs_per_kg,6.1235E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYUP,CH4,lbs,0.000015,2.204623,lbs_per_kg,6.80388E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,PRMS,CH4,lbs,0.000087,2.204623,lbs_per_kg,3.94625E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCE,CH4,lbs,0.000045,2.204623,lbs_per_kg,2.04117E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCM,CH4,lbs,0.000116,2.204623,lbs_per_kg,5.26167E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCW,CH4,lbs,0.000087,2.204623,lbs_per_kg,3.94625E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RMPA,CH4,lbs,0.000101,2.204623,lbs_per_kg,4.58128E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SPNO,CH4,lbs,0.0001,2.204623,lbs_per_kg,4.53592E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SPSO,CH4,lbs,0.000072,2.204623,lbs_per_kg,3.26586E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRMV,CH4,lbs,0.00004,2.204623,lbs_per_kg,1.81437E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRMW,CH4,lbs,0.000151,2.204623,lbs_per_kg,6.84924E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRSO,CH4,lbs,0.000064,2.204623,lbs_per_kg,2.90299E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRTV,CH4,lbs,0.000082,2.204623,lbs_per_kg,3.71946E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRVC,CH4,lbs,0.000047,2.204623,lbs_per_kg,2.13188E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,US Average,CH4,lbs,0.000066,2.204623,lbs_per_kg,2.99371E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AKGD,N2O,lbs,0.000012,2.204623,lbs_per_kg,5.44311E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AKMS,N2O,lbs,0.000004,2.204623,lbs_per_kg,1.81437E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,AZNM,N2O,lbs,0.000007,2.204623,lbs_per_kg,3.17515E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,CAMX,N2O,lbs,0.000004,2.204623,lbs_per_kg,1.81437E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,ERCT,N2O,lbs,0.000007,2.204623,lbs_per_kg,3.17515E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,FRCC,N2O,lbs,0.000006,2.204623,lbs_per_kg,2.72155E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,HIMS,N2O,lbs,0.000019,2.204623,lbs_per_kg,8.61825E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,HIOA,N2O,lbs,0.000025,2.204623,lbs_per_kg,1.13398E-05
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,MROE,N2O,lbs,0.000019,2.204623,lbs_per_kg,8.61825E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,MROW,N2O,lbs,0.000015,2.204623,lbs_per_kg,6.80388E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NEWE,N2O,lbs,0.000008,2.204623,lbs_per_kg,3.62874E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NWPP,N2O,lbs,0.000008,2.204623,lbs_per_kg,3.62874E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYCW,N2O,lbs,0.000003,2.204623,lbs_per_kg,1.36078E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYLI,N2O,lbs,0.000018,2.204623,lbs_per_kg,8.16466E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,NYUP,N2O,lbs,0.000002,2.204623,lbs_per_kg,9.07185E-07
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,PRMS,N2O,lbs,0.000014,2.204623,lbs_per_kg,6.35029E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCE,N2O,lbs,0.000006,2.204623,lbs_per_kg,2.72155E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCM,N2O,lbs,0.000016,2.204623,lbs_per_kg,7.25748E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RFCW,N2O,lbs,0.000012,2.204623,lbs_per_kg,5.44311E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,RMPA,N2O,lbs,0.000014,2.204623,lbs_per_kg,6.35029E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SPNO,N2O,lbs,0.000014,2.204623,lbs_per_kg,6.35029E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SPSO,N2O,lbs,0.00001,2.204623,lbs_per_kg,4.53592E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRMV,N2O,lbs,0.000006,2.204623,lbs_per_kg,2.72155E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRMW,N2O,lbs,0.000022,2.204623,lbs_per_kg,9.97903E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRSO,N2O,lbs,0.000009,2.204623,lbs_per_kg,4.08233E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRTV,N2O,lbs,0.000012,2.204623,lbs_per_kg,5.44311E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,SRVC,N2O,lbs,0.000007,2.204623,lbs_per_kg,3.17515E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,electricity,kWh,indirect energy,,,scope 2,USA,US Average,N2O,lbs,0.000009,2.204623,lbs_per_kg,4.08233E-06
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,therms,indirect energy,,,Scope 2,USA,,CO2,kg,6.633,1,kg_per_kg,6.633
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,mmbtu,indirect energy,,,Scope 2,USA,,CO2,kg,66.33,1,kg_per_kg,66.33
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,kbtu,indirect energy,,,Scope 2,USA,,CO2,kg,0.06633,1,kg_per_kg,0.06633
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,therms,indirect energy,,,Scope 2,USA,,CH4,grams,0.125,1000,grams_per_kg,0.000125
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,mmbtu,indirect energy,,,Scope 2,USA,,CH4,grams,1.25,1000,grams_per_kg,0.00125
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,kbtu,indirect energy,,,Scope 2,USA,,CH4,grams,0.00125,1000,grams_per_kg,0.00000125
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,therms,indirect energy,,,Scope 2,USA,,N2O,grams,0.0125,1000,grams_per_kg,0.0000125
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,mmbtu,indirect energy,,,Scope 2,USA,,N2O,grams,0.125,1000,grams_per_kg,0.000125
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,steam,kbtu,indirect energy,,,Scope 2,USA,,N2O,grams,0.000125,1000,grams_per_kg,0.000000125
+EPA CCCL Emission Factors for GHG Inventories,6/4/2024,2023,refrigerant leakage (test),sqft,fugitive,,,Scope 1,USA,,R-401A,kg,1,1,kg_per_kg,1
