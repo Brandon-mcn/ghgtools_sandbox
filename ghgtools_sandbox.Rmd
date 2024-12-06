@@ -135,9 +135,7 @@ setcolorder(GHGrawdata, c("asset_id",
                           "account_id",
                           "meter_number", 
                           "bill_date", 
-                          "start_date", 
-                          "end_date", 
-                          "billing_days", 
+                          "month", 
                           "year", 
                           "cost", 
                           "usage", 
@@ -160,7 +158,8 @@ setcolorder(GHGrawdata, c("asset_id",
                           "kg_co2e", 
                           "mt_co2e", 
                           "ef_source", 
-                          "ef_publishdate"))
+                          "ef_publishdate",
+                          "notes"))
 GHGrawdata[is.na(GHGrawdata)] <- ""
 fwrite(GHGrawdata, "ghgrawdata.csv")
 fwrite(EFL_CO2e, "EFlibrary_co2e.csv")
